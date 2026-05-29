@@ -1,4 +1,4 @@
-# 📊 SQL Exploratory Data Analysis & Advanced Analytics Project
+# 📊 EDA-data_warehouse Project
 
 > A comprehensive collection of SQL scripts for **Exploratory Data Analysis (EDA)** and **Advanced Analytics** built on top of the [SQL Data Warehouse Project](https://github.com/ChanakyaSreeHarshaG/SQl-Data_Warehouse_Project). This project transforms clean Gold layer data into meaningful business insights using pure SQL.
 
